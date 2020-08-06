@@ -5,7 +5,8 @@ This project is dedicated for Azeroth Core (maybe it will work with other cores 
 
 Support : [AzerothCore](http://azerothcore.org)
 
-## Requirements: Apache2, MariaDB/MySQL, PHP >=7.0
+## Requirements:
+Apache2, MariaDB/MySQL, PHP >=7.0
 
 ## Installation
 
