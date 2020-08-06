@@ -15,7 +15,10 @@ Apache2, MariaDB/MySQL, PHP >=7.0
  - phpenmod pdo_mysql
  - systemctl restart apache2
  - download project or clone to /var/www/html directory
- - go to config/ folder and edit Config.php file
+ - go to config/ folder and edit config.php file
 
  ## Screenshot
 ![preview](https://raw.githubusercontent.com/nolt/acore-mini-reg-page/master/img/preview.jpg)
+
+
+Code is based on very old Nostalrius site with mine tweaks and updates to work with AzerothCore.
