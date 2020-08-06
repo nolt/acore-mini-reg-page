@@ -16,3 +16,6 @@ Apache2, MariaDB/MySQL, PHP >=7.0
  - systemctl restart apache2
  - download project or clone to /var/www/html directory
  - go to config/ folder and edit Config.php file
+
+ ## Screenshot
+![preview](https://raw.githubusercontent.com/nolt/acore-mini-reg-page/master/preview.jpg)
