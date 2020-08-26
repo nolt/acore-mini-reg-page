@@ -30,7 +30,7 @@ $account = createAccount();
             }
 
             fieldset {
-                width: 70%;
+                width: 50%;
                 padding: 50px;
                 box-shadow: 0 0 9px white;
                 margin: 90px auto;
