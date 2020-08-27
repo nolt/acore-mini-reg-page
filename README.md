@@ -19,6 +19,7 @@ Apache2, MariaDB/MySQL, PHP >=7.0
 
  ## Screenshot
 ![preview](https://raw.githubusercontent.com/nolt/acore-mini-reg-page/master/img/preview.jpg)
+![preview](https://raw.githubusercontent.com/nolt/acore-mini-reg-page/master/img/preview2.jpg)
 
 
 Code is based on very old Nostalrius site with mine tweaks and updates to work with AzerothCore.

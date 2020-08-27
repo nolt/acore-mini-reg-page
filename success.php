@@ -19,7 +19,7 @@
             }
 
             fieldset {
-                width: 70%;
+                width: 50%;
                 padding: 50px;
                 box-shadow: 0 0 9px white;
                 margin: 90px auto;
@@ -81,8 +81,8 @@
         <fieldset>
             <h1 style="color: green;">Account successfully created!</h1>
             <h3>Change now your realmlist.wtf to connect.</h3>
-            Navigate to your World of Warcraft directory<br>
-            Open realmlist.wtf with your editor<br>
+            Navigate to your Game Client directory<br>
+            Search and open realmlist.wtf with your text editor<br>
             Change the content of the file to <pre>set realmlist ***</pre><br><br>
             <a href="./">Back to our website</a>
         </fieldset>
