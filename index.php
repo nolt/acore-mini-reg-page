@@ -115,7 +115,7 @@ $account = createAccount();
         <div class="infoo">
         Welcome on <span style="color: #3590d7; font-size: 22px;"><strong>Private Realm</strong></span>.
         <br>
-        Project is only for learning purpouse.
+        This project is only for learning purposes.
         <br><br><br>
         </div>
 
@@ -136,7 +136,7 @@ $account = createAccount();
             <div class="information">
                 <ul>
                     <li>This is a Private Realm!</li>
-                    <li>This realm is for private purpouse only!</li>
+                    <li>This realm is for private purposes only!</li>
                     <br>
                     <li>The realmlist is <pre>set realmlist ***</pre></li>
                 </ul>
